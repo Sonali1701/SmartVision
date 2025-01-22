@@ -105,9 +105,6 @@ This project leverages advanced computer vision and deep learning techniques to 
 - Enhance defect detection using advanced object detection models.
 - Implement a web-based dashboard for monitoring results.
 
-## **Contributors**
-- **Your Name** - AI Engineer and Developer
-
 ## **License**
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
